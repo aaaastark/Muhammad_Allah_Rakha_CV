@@ -2,6 +2,6 @@
 ## Research Data Scientist & AI-ML Engineer
 
 <p align="center" width="100%">
-    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/232937707-c7f58a82-bc0c-4931-bb68-9757ebee35e6.png"> 
-    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/232937753-b9d38db9-760f-41c6-ab15-2a3b3869ef12.png"> 
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/233919421-4ba3b3b8-83fd-4805-b9e6-b1395b71f647.png"> 
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/233919427-a6201eef-e799-4a6f-a386-1a347c13e690.png"> 
 </p>
